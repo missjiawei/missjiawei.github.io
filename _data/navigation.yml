@@ -1,0 +1,10 @@
+# main links links
+main:
+  - title: "Education"
+    url: /#education
+        
+  - title: "CV/Resume"
+    url: /files/Resume.pdf
+    
+  - title: "Contact"
+    url: /#contact
